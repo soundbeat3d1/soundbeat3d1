@@ -18,7 +18,8 @@ I'm no longer finding tracks in my favorite styles after an incident involving a
 - [My Repositories](https://github.com/soundbeat3d1?tab=repositories)  
 - [My Youtube Channel](https://youtube.com/@soundbeat3d1)
 
-## 📊 Profile counters
+## 📊 Profile stats
 ### 🔢 Profile ![Profile Visits](https://badges.pufler.dev/visits/soundbeat3d1/soundbeat3d1)  
 ### 🔄 Profile ![Profile Updated](https://badges.pufler.dev/updated/soundbeat3d1/soundbeat3d1)  
 ### 🎉 Profile ![Profile Years](https://badges.pufler.dev/years/soundbeat3d1)
+![Profile Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soundbeat3d1&theme=dark&layout=donut)
