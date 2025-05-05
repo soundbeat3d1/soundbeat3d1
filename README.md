@@ -1,7 +1,7 @@
 # Welcome to my profile!
 
 ## 🚨 Important message!  
-I'm no longer finding tracks in my favorite styles after an incident involving a member of Hard Donk Records.
+I might be more inactive.
 
 ## 🛠️ Working on:
 - Nothing (or private projects)
