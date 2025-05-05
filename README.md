@@ -4,10 +4,7 @@
 I'm no longer finding tracks in my favorite styles after an incident involving a member of Hard Donk Records.
 
 ## 🛠️ Working on:
-- Free E-Z Services
-  * This might be cancelled
-- XS Project, Tem Project, Progressive Factor websites remake
-  * Uses sites that are available on internet, not archival sites or programs.
+- Nothing (or private projects)
 
 ## 🔗 My links
 - [My Website](https://3d1.serv00.net)
